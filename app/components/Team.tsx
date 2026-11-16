@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 const team = [
-  { img: "/sj.jpeg", name: "M. Sibgatullah", role: "App Developer", desc: "Specialist in building mobile applications using Flutter and React Native." },
+  { img: "/sj.jpeg", name: "M. Sibgatullah", role: "Co-Founder", desc: "Specialist in building mobile applications using Flutter and React Native." },
   { img: "/Huzaifa.jpeg", name: "Huzaifa Kaleem", role: "Web Developer", desc: "Expert in crafting responsive and high-performance websites using React and Node.js." },
   { img: "/bs.jpeg", name: "Basit Hassan", role: "Digital Marketing", desc: "Basit Hassan is a Digital Marketing Specialist with expertise in Social Media Marketing, Paid Advertising, and Google Business Profile (GBP) Management. I help businesses increase their online visibility, generate quality leads, and grow through data-driven marketing strategies and effective digital solutions." },
   { img: "/asad.jpeg", name: "Asad", role: "Video Editor & YouTube Automation", desc: "Creative video editor specializing in cinematic edits, motion graphics, and storytelling. Expert in YouTube automation and channel growth strategies." },
